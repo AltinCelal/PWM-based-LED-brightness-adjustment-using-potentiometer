@@ -4,7 +4,7 @@ This project demonstrates how to control an LED’s brightness using **PWM (Puls
 The potentiometer value is read via **ADC**, and mapped to a PWM duty cycle to adjust the LED intensity in real time.
 
 ---
-
+WARNING: Without using PWM or ADC, you can achieve similar LED brightness control by connecting the potentiometer’s output directly to the LED’s anode.
 ## 🔧 Hardware Requirements
 
 * STM32F303RE (or similar STM32 board)
