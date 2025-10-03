@@ -52,3 +52,4 @@ __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, adcValue);
 
 ---
 
+“Additionally, you can watch the project demonstration video here
